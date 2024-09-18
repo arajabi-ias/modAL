@@ -8,3 +8,6 @@ __pycache__
 build/
 dist/
 modAL.egg-info/
+modAL_python.egg-info/
+__pycache__/
+*.pyc
